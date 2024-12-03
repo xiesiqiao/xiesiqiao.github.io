@@ -1,7 +1,7 @@
 ---
 title: "Global education trajectories and inequality: STEM workers from China to the US"
 collection: High-tech, regional development and migration
-category: manuscripts
+category: migration
 permalink: /publication/stem_education
 excerpt: 'This paper investigates how the educational backgrounds of foreign-born STEM workers from China affect their income and career outcomes in the United States. It finds that migrants with non-US education face significant income disadvantages, highlighting the persistent impacts of educational origin on economic assimilation in the U.S.'
 date: 2023-09-15
