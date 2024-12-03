@@ -22,4 +22,4 @@ I also develop innovative methods and datasets to track people and places throug
 ### 🏥 Population Health & Policy Impact beyond the academia
 My research sits at the intersection of place, inequality, and population health, drawing on federal health policy and community initiatives. Through my work with SPHERE and COVID-19 projects, I developed spatial analytic approaches to identify vulnerable communities and assess health disparities. This work translated into actionable policy insights for CMS, CDC, and NGO initiatives, strengthening resilience and funding for minority communities.
 
-🔗 Feel free to explore my [ongoing projects](./publications), [datasets](./portfolio), and [background](./files/xie_cv_new.pdf)! Let's connect and talk about how data, geography, and spatial analysis can drive meaningful change.
+🔗 Feel free to explore my [ongoing projects](./publications.html), [datasets](./portfolio.html), and [background](./files/xie_cv_new.pdf)! Let's connect and talk about how data, geography, and spatial analysis can drive meaningful change.
