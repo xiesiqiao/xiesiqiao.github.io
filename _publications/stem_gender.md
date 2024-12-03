@@ -3,7 +3,7 @@ title: "Stemming the tide of inequality? Immigration, gender, and spatial income
 collection: publications
 category: manuscripts
 permalink: /publication/stem_gender
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper examines income inequality within STEM occupations in the U.S., focusing on nativity- and gender-based disparities. It finds that despite accounting for factors like education and labor market contexts, women—particularly foreign-born women—continue to earn significantly less than men, highlighting persistent gender inequities in high-paying STEM fields.'
 date: 2022-01-15
 venue: 'High-tech, regional development and migration'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
