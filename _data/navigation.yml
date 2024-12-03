@@ -8,8 +8,9 @@ main:
   - title: "Research"
     url: /publications/
 
+  - title: "Data"
+    url: /portfolio/
+
   - title: "CV"
     url: /files/xie_cv_new.pdf
     
-  - title: "Data"
-    url: /portfolio/
