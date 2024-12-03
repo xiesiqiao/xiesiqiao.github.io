@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/xie_cv_new.pdf
+    url: https://www.dropbox.com/scl/fi/lsjq55n2f0h8co21c8x7p/xie_cv_new.pdf?rlkey=o28h307g7m6ppf3k2pvu0u3m5&dl=0
     
   - title: "Data"
     url: /portfolio/
