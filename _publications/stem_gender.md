@@ -1,11 +1,11 @@
 ---
 title: "Stemming the tide of inequality? Immigration, gender, and spatial income disparities in today’s leading technological sectors"
-collection: publications
+collection: High-tech, regional development and migration
 category: manuscripts
 permalink: /publication/stem_gender
 excerpt: 'This paper examines income inequality within STEM occupations in the U.S., focusing on nativity- and gender-based disparities. It finds that despite accounting for factors like education and labor market contexts, women—particularly foreign-born women—continue to earn significantly less than men, highlighting persistent gender inequities in high-paying STEM fields.'
 date: 2022-01-15
-venue: 'High-tech, regional development and migration'
+venue: 'SSRN working paper'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4036007_code5077174.pdf?abstractid=4036007&mirid=1'
 citation: 'Xie, Siqiao and Connor, Dylan, Stemming the tide of inequality? Immigration, gender, and spatial income disparities in today’s leading technological sectors (01 15, 2022). Available at SSRN: https://ssrn.com/abstract=4036007 or http://dx.doi.org/10.2139/ssrn.4036007'
