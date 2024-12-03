@@ -7,8 +7,7 @@ excerpt: 'This paper investigates how the educational backgrounds of foreign-bor
 date: 2023-09-15
 venue: 'Journal of Ethnic and Migration Studies'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-pdfurl: './files/writting_sample_1_sxie.pdf'
-paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2270338'
+paperurl: './files/writting_sample_1_sxie.pdf'
 citation: 'Xie, Siqiao (2023). Global education trajectories and inequality: STEM workers from China to the US. Journal of Ethnic and Migration Studies, 49(18), 4699-4721.'
 ---
 
