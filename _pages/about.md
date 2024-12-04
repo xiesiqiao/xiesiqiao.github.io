@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Welcome to my Academic Journey!**"
+title: "**Welcome to Siqiao Xie's Academic Journey!**"
 author_profile: true
 redirect_from: 
   - /about/
