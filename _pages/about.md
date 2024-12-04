@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Siqiao Xie's Personal Academic Website"
+title: "**Welcome to my Academic Journey!**"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋 **Welcome to my Academic Journey!**
-
-Hi, I'm **Siqiao Xie** (谢斯峤), a Postdoctoral Associate at the Institute of Behavioral Science, University of Colorado, Boulder. I earned my PhD in Geography from Arizona State University, where I explored the geography of inequality in STEM—focusing on migration, gender, and economic disparities.
+👋 Hi, I'm **Siqiao Xie** (谢斯峤), a Postdoctoral Associate at the Institute of Behavioral Science, University of Colorado, Boulder. I earned my PhD in Geography from Arizona State University, where I explored the geography of inequality in STEM—focusing on migration, gender, and economic disparities.
 
 I am passionate about understanding how technological advancements and regional developments influence social and economic inequalities across regions and communities. My work spans three main themes:
 
