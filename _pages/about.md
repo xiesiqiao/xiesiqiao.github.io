@@ -2,19 +2,6 @@
 permalink: /
 title: "**Siqiao Xie 谢斯峤**"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-Postdoctoral Associate, Institute of Behavioral Science, CU Boulder
-
-PhD，Geography, Arizona State University
-
-
----
-permalink: /
-title: "**Siqiao Xie 谢斯峤**"
-author_profile: true
 redirect_from:
   - /about/
   - /about.html
