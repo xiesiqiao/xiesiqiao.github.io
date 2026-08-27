@@ -53,13 +53,13 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    <li>{{ post.title }} &mdash; <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}</li>
   {% endfor %}</ul>
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    <li>{{ post.title }} ({{ post.type }}) &mdash; <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}</li>
   {% endfor %}</ul>
 
 Selected Honors & Grants
