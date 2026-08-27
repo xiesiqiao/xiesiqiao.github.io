@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Siqiao Xie | 谢斯峤"
 title_separator          : "-"
 name                     : &name "Siqiao Xie"
-description              : &description "personal description"
+description              : &description "Siqiao Xie is a spatial demographer and computational social scientist studying how neighborhoods shape population health, mid-life mortality, and healthy aging."
 url                      : https://xiesiqiao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiesiqiao/xiesiqiao.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_pic.jpg"
   name             : "Dr. Siqiao Xie"
   pronouns         : "He/Him"  
-  bio              : "Research Associate @ Institute of Behavioral Science, CU Boulder"
+  bio              : "Postdoctoral Associate, Institute of Behavioral Science, CU Boulder"
   location         : "Boulder, CO"
   employer         : "University of Colorado"
   uri              : # URL
